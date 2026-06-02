@@ -1,0 +1,35 @@
+{
+  "domain_name": "Wine",
+  "content_field": "page_content",
+  "id_field": "id",
+  "metadata_fields": [
+    {
+      "name": "prezzo",
+      "type": "float"
+    },
+    {
+      "name": "punteggio",
+      "type": "float"
+    },
+    {
+      "name": "paese",
+      "type": "string"
+    },
+    {
+      "name": "provincia",
+      "type": "string"
+    },
+    {
+      "name": "region_1",
+      "type": "string"
+    },
+    {
+      "name": "vitigno",
+      "type": "string"
+    },
+    {
+      "name": "cantina",
+      "type": "string"
+    }
+  ]
+}
