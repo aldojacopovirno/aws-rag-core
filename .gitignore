@@ -1,0 +1,32 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# AWS & App Config overrides (keep generic schema, ignore runtime ids)
+config/app_config.json
+
+# Data
+data/
+*.csv
+*.json
+!config/domain_schema.json
+
+# Python overrides
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# MacOS
+.DS_Store
