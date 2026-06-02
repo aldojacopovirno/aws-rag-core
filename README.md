@@ -140,4 +140,4 @@ Adapting this RAG to a completely different domain (e.g., Legal Documents, Medic
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
